@@ -8,3 +8,6 @@
 ![sc2](https://github.com/user-attachments/assets/47814c25-7394-4e22-91e5-bebbc8427a89)
 ![sc3](https://github.com/user-attachments/assets/c026a257-11ae-480a-a2a6-da48d2a3db80)
 
+#### And if a particular city is not found we will be given the 404 Error
+![sc4](https://github.com/user-attachments/assets/e862312d-29cb-4a5c-a55b-05eb760c60b9)
+
